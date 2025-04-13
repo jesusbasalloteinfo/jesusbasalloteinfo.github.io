@@ -4,7 +4,7 @@ title: Jesús Basallote Gallardo
 description: Portfolio
 ---
 
-# 🛰 Astronomical Software Suite
+# 🌌 Astronomical Software Suite
 
 As an astronomy enthusiast and C++ developer, I’ve created a **cross-platform suite of astronomical applications** designed to deliver accurate data and clean visualizations of celestial phenomena. This suite includes three specialized tools, all featuring graphical interfaces built with **wxWidgets**:
 
