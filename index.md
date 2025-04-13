@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jesús Basallote Gallardo
-subtitle: Portfolio
+description: Portfolio
 ---
 
 # 🛰 Astronomical Software Suite
@@ -29,25 +29,20 @@ A **planetary analyzer** capable of computing ephemerides for any planet in the 
 
 More information can be found [here](./planexiscope.html)
 
+# 🖥️ Self-Hosted Private Server
 
+As a personal tech project, I set up a **self-hosted private server** at home, running multiple services to explore system administration, network configuration, and service deployment. Everything runs on a Linux-based machine with proper port management and access controls.
 
-# 🃏 *Seven and a Half* – Small Card Game (HTML, CSS, JS)
+The server is fully accessible **from anywhere on the Internet** via **secure HTTPS connections**, thanks to remote access configuration, dynamic DNS, and encrypted reverse proxy routing.
 
-As a side project, I developed a small web-based version of the classic card game **Seven and a Half** using **HTML, CSS, and JavaScript**. The game is designed to be simple, modern, and interactive, with a focus on user experience.
+### Services Included:
 
-It has the following features:
+- 🎞️ **Media Server (Jellyfin)** – Streams my personal media (movies, music, TV shows) across my devices.
+- 🌐 **Web Server (Apache and Nginx)** – Hosts static and dynamic content, and also acts as a **reverse proxy** to route specific URLs to the internal services, making access seamless and centralized via friendly web addresses instead.
+- ☁️ **Cloud Storage (Nextcloud)** – A private cloud platform for syncing files, calendars, and notes, accessible from any device.
+- 🧬 **Git Server (Gitea)** – A lightweight, self-hosted Git service to manage my private code repositories with a clean web interface.
 
-- **Single-player mode**: Play against a CPU opponent that makes strategic decisions based on the current game state.
-- **Event log window**: A dynamic log that records and displays game actions in real time (draws, scores, CPU decisions, and game results).
-- **Animated card visuals**: Cards are generated with pleasant animations, enhancing the visual feedback during gameplay.
-- **Modern user interface**: Clean design with a polished UI layout fully playable on desktop browsers.
+This setup has given me full control over my data, while also providing me a deeper understanding of service hosting and the opportunity to experiment with configurations and automation for greater flexibility.
 
-<figure style="text-align: center;">
-  <img src="https://i.imgur.com/n5N69av.png
-" alt="Main menu and Small Lunar Visualizer" width="400"/>
-  <figcaption><em>Main Game Screen</em></figcaption>
-</figure>
-
-This project showcases DOM manipulation, basic AI logic for the CPU, animation techniques with CSS/JS, and state management for a turn-based game.
-
-Play the [game](https://jesusbasalloteinfo.github.io/Seven-and-a-Half-Game/) or see the game [repository](https://github.com/jesusbasalloteinfo/Seven-and-a-Half-Game).
+> 📫 **Want to try it out or learn more?**  
+> Feel free to [contact me](mailto:u1989933@campus.udg.edu)

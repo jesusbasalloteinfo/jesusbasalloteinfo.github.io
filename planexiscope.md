@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PlanexiScope: Planetary Ephemeris Tool
-subtitle: Jesús Basallote Gallardo
+description: Jesús Basallote Gallardo
 ---
 
 # PlanexiScope: Planetary Ephemeris Tool
