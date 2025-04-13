@@ -1,6 +1,7 @@
 ---
 layout: default
 title: HelioMetrica: Solar Data Analyser
+subtitle: Jesús Basallote Gallardo
 ---
 
 # HelioMetrica: Solar Data Analyser

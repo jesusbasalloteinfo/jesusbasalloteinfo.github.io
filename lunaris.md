@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Lunaris: Lunar Astronomical Calculator
+subtitle: Jesús Basallote Gallardo
 ---
 
 # Lunaris: Lunar Astronomical Calculator

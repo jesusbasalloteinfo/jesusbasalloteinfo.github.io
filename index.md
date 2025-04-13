@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Jesús Basallote Gallardo
+subtitle: Portfolio
 ---
 
 # 🛰 Astronomical Software Suite
