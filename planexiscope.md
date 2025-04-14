@@ -17,8 +17,9 @@ It is part of a suite of astronomical programs that also includes:
 - **Lunaris**, focused on lunar data.
 - **HelioMetrica**, focused on solar analysis.
 
-Currently, PlanexiScope is only available for Windows and is under active [development](./) (Link coming soon...).
-
+Currently, PlanexiScope is only available for Windows and is under active development.
+> 📫 **Want to try it out or learn more?**  
+> Feel free to [contact me](mailto:u1989933@campus.udg.edu)
 
 
 ## Main Menu and Planet Selector

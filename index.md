@@ -6,8 +6,15 @@ description: Portfolio
 
 # 🌌 Astronomical Software Suite
 
-As an astronomy enthusiast and C++ developer, I’ve created a **cross-platform suite of astronomical applications** designed to deliver accurate data and clean visualizations of celestial phenomena. This suite includes three specialized tools, all featuring graphical interfaces built with **wxWidgets**:
+As an astronomy enthusiast and C++ developer, I’ve created a **cross-platform suite of astronomical applications** designed to deliver accurate data and clean visualizations of celestial phenomena. 
 
+## Key Features
+- 🌍 **Cross-Platform Design**: The suite is designed with cross-platform compatibility in mind (Windows, Linux and macOS), _**although it is currently only available for Windows**_.
+- 🌐 **Multilingual Interface**: Available in multiple languages to make the tools accessible to a broader astronomical community _(available in Catalan, Spanish and English)_.
+- 🔬 **Scientific Accuracy**: All data is generated using **real-time astronomical calculations**, with no precomputed tables involved.  
+  > This approach ensures higher accuracy, adaptability, and consistency across time and location, while also allowing for more flexible simulations.
+
+This suite includes three specialized tools, all featuring graphical interfaces built with [**wxWidgets**](https://www.wxwidgets.org/):
 
 ## 🌕 Lunaris: Lunar Astronomical Calculator
 
@@ -18,14 +25,14 @@ More information can be found [here](./lunaris.html)
 
 ## ☀️ HelioMetrica: Solar Data Analyser
 
-A **solar tool** that offers the Sun’s position, sunrise and sunset times, solstice and equinox events, and a sky viewer with realistic lighting. Ideal for studying the solar cycle and its annual evolution.
+A **Solar tool** that offers the Sun’s position, sunrise and sunset times, solstice and equinox events, and a sky viewer with realistic lighting. Ideal for studying the solar cycle and its annual evolution.
 
 More information can be found [here](./heliometrica.html)
 
 
 ## 🪐 PlanexiScope: Planetary Ephemeris Tool
 
-A **planetary analyzer** capable of computing ephemerides for any planet in the solar system, including geocentric and heliocentric positions, rise and set times, and dates of perihelion and aphelion. It includes a powerful orbital viewer with multiple viewing modes.
+A **Planetary analyzer** capable of computing ephemerides for any planet in the solar system, including geocentric and heliocentric positions, rise and set times, and dates of perihelion and aphelion. It includes a powerful orbital viewer with multiple viewing modes.
 
 More information can be found [here](./planexiscope.html)
 
